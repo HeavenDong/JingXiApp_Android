@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wo_2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\wo_2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aijingxi_2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\aijingxi_2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\sousuo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\sousuo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\pinglun.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\pinglun.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhongchou.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhongchou.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shouli.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shouli.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nv.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\nv.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cover_circular_transparent_drawing_positive.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\cover_circular_transparent_drawing_positive.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiangzi_xiao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\xiangzi_xiao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\you_hongi_jiantou.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\you_hongi_jiantou.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\haoyou_sousuo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\haoyou_sousuo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shixin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shixin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\haoyou_xindehaoyou.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\haoyou_xindehaoyou.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lipin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\lipin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\nan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\nan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\baoxiang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\baoxiang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\jingxibi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\jingxibi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhuce_biyan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhuce_biyan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhibo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhibo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shezhi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shezhi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\you_bai_jiantou.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\you_bai_jiantou.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fenxiang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\fenxiang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shouhuo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shouhuo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tianjiahaoyou_lianxiren.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\tianjiahaoyou_lianxiren.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shengrimoren.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shengrimoren.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\haoyou.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\haoyou.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\daren.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\daren.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhibo_2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhibo_2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiaoxi_2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\xiaoxi_2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aijingxi_xiao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\aijingxi_xiao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yanzheng_yanzhengma.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\yanzheng_yanzhengma.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shengri.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shengri.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dianhuax.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\dianhuax.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yitihuo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\yitihuo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\point2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\point2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dennglu_shouji.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\dennglu_shouji.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\denglu_shejiao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\denglu_shejiao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fenxiang2x.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\fenxiang2x.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yuan2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\yuan2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\baoxiang_kongtu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\baoxiang_kongtu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\denglutouxiang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\denglutouxiang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\point1.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\point1.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\huodong.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\huodong.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhifu_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhifu_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\suixinxuan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\suixinxuan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiangshang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\xiangshang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhuce_yanjing.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhuce_yanjing.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xuyuan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\xuyuan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\xiaoxi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\xiaoxi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shengrixuanze.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shengrixuanze.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aiaijingxibi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\aiaijingxibi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\lipin_2.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\lipin_2.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\jiage.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\jiage.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\moren.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\moren.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tihuozhong.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\tihuozhong.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fanhui.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\fanhui.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\point.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\point.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\fenqinama.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\fenqinama.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\weixin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\weixin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\songli.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\songli.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\huanfu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\huanfu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\aijingxi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\aijingxi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\wo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\wo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhifu_selected.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhifu_selected.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zhifubao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\zhifubao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\yiduihuan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\yiduihuan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\denglu_mima.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\denglu_mima.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\shxx.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\shxx.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dongtai.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable-mdpi\\dongtai.png"
+    }
+]

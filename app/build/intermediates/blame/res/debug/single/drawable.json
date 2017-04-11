@@ -1,0 +1,922 @@
+[
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bianji.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\bianji.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wo_02.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\wo_02.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_press_speak_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chat_press_speak_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_icon_speaker_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_icon_speaker_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\go.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\haoyou_tianjia.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\haoyou_tianjia.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_appitem_del_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_edit_text_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_edit_text_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_tumblr.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_file_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_file_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_timestampe_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_timestampe_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_splash_background_registtv.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\activity_splash_background_registtv.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_pressed_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_msg_state_failed_resend.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_msg_state_failed_resend.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xingbie.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\xingbie.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_location_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chat_location_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_gray_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_gray_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem_grey.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_mm_listitem_grey.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_mm_listitem.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_mm_listitem.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_file_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_file_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_type_select_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_type_select_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touxiang_yuan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\touxiang_yuan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fanhui.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\fanhui.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_answer_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_call_answer_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yizan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\yizan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kakaotalk.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tuzi.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\tuzi.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_facebook.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_voice_call_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_yellow_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_yellow_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_pressed_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_logout_pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sex_nan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\sex_nan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_white_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_white_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nicheng.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\nicheng.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongluexiangqing_tu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\gongluexiangqing_tu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_back.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\toast_back.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_002_cover.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\icon_002_cover.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_twitter.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lipinwu_banner.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\lipinwu_banner.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_renren.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_mingdao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_mingdao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_minus_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_add_btn_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\event_bg.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\event_bg.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_instapaper.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_voice_call_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_bluetooth.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_songli.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\wish_songli.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_bj.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_bj.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_voice_call_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_voice_call_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_youdao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_email.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_foursquare.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_act_btn_normal.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_mm_title_act_btn_normal.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_gray_transparency_circle_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_gray_transparency_circle_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\birthday_check_style.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\birthday_check_style.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_gray_fillet_background3.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_gray_fillet_background3.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_translucence_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_translucence_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_style_alert_dialog_background.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_style_alert_dialog_background.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_douban.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goumailipin_jiahao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\goumailipin_jiahao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red_transparency_fillet_background2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_red_transparency_fillet_background2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_icon_mute_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_icon_mute_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_auth_title_back.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\xin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_qzone.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suiliwu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\suiliwu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red_fillet_background2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_red_fillet_background2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_call_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_call_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_laiwang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_gray_fillet_background2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_gray_fillet_background2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_line.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_whatsapp.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_pinterest.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_ptr_ptr.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red_transparency_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_red_transparency_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_dx_checkbox_on.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_dx_checkbox_on.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kaixin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_keyboard_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chatting_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_pocket.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_show_head_toast_bg.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\receive_msg_check_style.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\receive_msg_check_style.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn_nor.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_add_btn_nor.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\resertplay.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\resertplay.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke_corner_transparent_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\stroke_corner_transparent_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_takepic_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chat_takepic_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_video_recorder_start_btn.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_video_recorder_start_btn.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_error_item_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_error_item_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_check_default.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_login_error_icon.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_login_error_icon.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_bottom_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_bottom_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_yellow_transparency_circle_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_yellow_transparency_circle_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_pressed_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_shortmessage.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_sidebar_background_pressed.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_sidebar_background_pressed.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mobang.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\mobang.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_checkbox_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_title_div.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_title_div.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_brown__fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_brown__fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_camera_switch_normal.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_camera_switch_normal.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_photogrid_list_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_photogrid_list_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_yixinmoments.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_appitem_del_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_back.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\item_back.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke_corner_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\stroke_corner_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textcolor_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\textcolor_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_context_menu_item_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_context_menu_item_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shanchu1.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\shanchu1.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\anniu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\anniu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_normal_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_hint_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_recording_hint_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_kakaostory.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_common_tab_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_common_tab_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_red_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\huanyihuan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\huanyihuan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_dropbox.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatting_setmode_voice_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chatting_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_googleplus.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_minus_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_minus_btn_nor.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_minus_btn_nor.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weixin_share.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\weixin_share.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_tencentweibo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechatmoments.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_video_recorder_stop_btn.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_video_recorder_stop_btn.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_send_btn_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chat_send_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_back.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_mm_title_back.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_wechat.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_alipay.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_evernote.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_vkontakte.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pengyouquan.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\pengyouquan.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_normal_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_gray_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\webshare.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\webshare.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_icon_mute_on.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_icon_mute_on.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_recording_text_hint_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_recording_text_hint_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_qq.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guanbianniu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\guanbianniu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_check_checked.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_gray_transparency_fillet_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_gray_transparency_fillet_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shanchu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\shanchu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shengri_banner.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\shengri_banner.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beijing.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\beijing.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aijingxi_banner.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\aijingxi_banner.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time_bg.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\time_bg.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_camera_switch_pressed.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_camera_switch_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\see_psw_check_style.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\see_psw_check_style.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_pressed_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_gray_pressed_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_style_alert_dialog_special.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_default_avatar.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_default_avatar.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\goumailipin_jianhao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\goumailipin_jianhao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_linkedin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_dx_checkbox_gray_on.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_dx_checkbox_gray_on.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_instagram.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_ic_right_arrow.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_ic_right_arrow.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chat_image_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chat_image_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sousuobeijing.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\sousuobeijing.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wish_dialog_eidtback.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\wish_dialog_eidtback.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_dx_checkbox_off.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_dx_checkbox_off.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_call_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_call_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\haoyou_kongtu.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\haoyou_kongtu.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pay_check_style.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\pay_check_style.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_empty_photo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_empty_photo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_icon_speaker_on.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_icon_speaker_on.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_yixin.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jiahao.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\jiahao.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_logout_normal_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_logout_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_002.gif",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\icon_002.gif"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_blue_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_blue_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_flickr.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_search_clear.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_search_clear.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatto_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chatto_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_back_arr.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_logo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_logo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_btn_gray_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_btn_gray_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_sinaweibo.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_chatfrom_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_chatfrom_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_smiley_add_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_smiley_add_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\activity_splash_background_logintv.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\activity_splash_background_logintv.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_profile_headphoto_update_icon.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_profile_headphoto_update_icon.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_app_pref_bg.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_app_pref_bg.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_appitem_del_btn_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_appitem_del_btn_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sex_nv.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\sex_nv.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_act_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_mm_title_act_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_actionbar_camera_icon.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_actionbar_camera_icon.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ease_btn_cancel_normal_shape.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\drawable\\ease_btn_cancel_normal_shape.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_video_call_normal.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_video_call_normal.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_call_hangup_bg.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_call_hangup_bg.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_camera_switch_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_camera_switch_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_checkbox_bg_gray_selector.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_checkbox_bg_gray_selector.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gongluexiangqing_banner.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\gongluexiangqing_banner.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_red_circle_background.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\img_red_circle_background.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_chat_file_pressed.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_chat_file_pressed.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\em_mm_title_act_btn_pressed.9.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\em_mm_title_act_btn_pressed.9.png"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_prompt_loading.png",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\drawable\\ic_prompt_loading.png"
+    }
+]

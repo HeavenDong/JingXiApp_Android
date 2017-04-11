@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/back">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/title_color">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="备注名"
+            android:textSize="15sp"
+            android:textColor="@color/white"/>
+        <ImageView
+            android:id="@+id/remark_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="15dp"
+            android:src="@drawable/fanhui"/>
+        <TextView
+            android:id="@+id/save_remark"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:layout_alignParentRight="true"
+            android:paddingRight="15dp"
+            android:paddingLeft="15dp"
+            android:text="保存"
+            android:textSize="12sp"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
+
+   <LinearLayout
+       android:id="@+id/change_note"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:paddingRight="15dp"
+       android:paddingLeft="15dp"
+       android:layout_marginTop="10dp"
+       android:background="@color/white">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textSize="14sp"
+            android:textColor="@color/im_head_black"
+            android:text="备注名"
+          />
+        <com.zhuyun.jingxi.android.view.ClearEditText
+            android:id="@+id/remark_edit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_gravity="center_vertical"
+            android:background="@null"
+            android:layout_weight="1"
+            android:hint="请输入备注名"
+            android:textSize="14sp"
+            android:textColor="@color/im_head_gray"
+            android:textColorHint="@color/im_head_gray"
+            />
+
+   </LinearLayout>
+
+
+</LinearLayout>

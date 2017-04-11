@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\ShareSDK-Wechat-Core-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="39363e86a3bf456d6c40df01a1ba378755d3af68">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.4_1bf6c6b3d617c8eff4fbf870e8fdfbfb4115fbca.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\umeng-update-v2.6.0.1_a00ba0c5448eaf2c5224a1d4ac5e0817f117866f.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\hyphenatechat_3.1.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a90d26f43892f91d39c9cda5a2d737e82025fc6f">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\hyphenatechat_3.1.4_ebe194cb12d2d89c7fd53653f1d72c47508f1718.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0f9eccf79ae6006e4346725b09114182dca0c023">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_6897ad53357ff8450ef8d38ce9187522ca314428.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\greendao-1.3.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\greendao-1.3.7_2a82171cf925bbc4735c0480e07b1e78964f79d3.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\MobCommons-2016.0707.1708.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="57eee6c3e8bab2ed4b9a585a7f590808d6518573">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\MobCommons-2016.0707.1708_24a34ddc1a1ae277afc22b51d012a9b01ad49a57.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\HwPush_SDK_V2705_nomap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="671813f2847e6e51119e8602051b96c09cce6cec">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\HwPush_SDK_V2705_nomap_a6154ac3210be7e6febbeb306e28c41ec023261f.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_aedf01981cc27d3980c9c28670065a227156377b.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\libammsdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\libammsdk_a03a0af44f317ea26b049ed54065262a30bdada1.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\MobTools-2016.0707.1708.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2a583c5b1b67aa1f1b9dbbc658d9e0d185d89dd3">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\MobTools-2016.0707.1708_a8fe855dcc0dee26c6573f78e37d06bc1931e723.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_fea4a632af2913a7f9ca86c4793f0fe82b809c2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\user0081\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7abc2c8bfad248d8893723525692611e73ded181.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_724dd6c92ac3ace7cc062f77a04da2c069df6780.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\ShareSDK-Wechat-Moments-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="017864b455f8d5c8ca493f10ee56752c245ca1b2">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.4_e2e2960db329ba2f36dd307a6ff3fe8960d050be.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\ShareSDK-Core-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9669deee2fdef4b1dff1d0eb35ad04f55e0d45ab">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.4_758a9a55e8b5906aa3a81b8a8a4a6cc11935bcad.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\parse-android-1.13.0_4605f5a0d5465114e702e38f8e9ea08ac8ea41bb.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\ShareSDK-Wechat-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e690038736ff3d8e8b878c8b057f5e0973557b7b">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.4_a1979bdb19aabdf2f3aeea47e1b70e4e4a7b6494.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\okio-1.8.0_b4208908ed3efbce6ea1f48da9cb7dcdcb7a5ea0.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d5e111b221fd990eaf1cf35c4d907dd23adf427">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\instant-run_3279e05ad9b87b60219c031d15eea1cb8f8abd82.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\ShareSDK-Wechat-Favorite-2.7.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="491bf68531e1cd6078996679da1d0b3291b7a829">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.7.4_609b808269411f71e00e2cfd5c535dcf35a5ca76.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\MiPush_SDK_Client_2_2_19.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebef14c2194db1488c43bebf2b8745d50829ef93">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\MiPush_SDK_Client_2_2_19_7f6804b0d6b9b15781fa326aec40d0ef81250271.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88fda4f24f32863e613a18f0cae8d902151f77e2">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\glide-3.6.1_8919fc4af9e56ddee5e5758497f75c335a20d71b.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19144f1f8b073b236c7f44262b3f96b1b90c3893">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\google-play-services_5a03314f6a850216664b767238796298eb507d94.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\libs\android-support-multidex.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a9d5c95d823ccda38f185a5f80ace6bfd61c0d5">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\android-support-multidex_13dca6371254b476f7cc3cda4d9db8a08a8fd182.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b6e109e4a7a555d5861ad086ad051fcae20ab0d">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\android-support-v4_acedb88754581a836c8e78a1bc96958b0d63cc67.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_0429f2ab3e9062131026da13d0d17fb0de2980e5.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c533a1aa8c5f4f1fbe1cb424481b26e4b886705">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e385cf8f217f4680ffcf4d45648bd20e865a301b.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="038d75526597efc1d5f7ae50f4675da823976aed">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_21888fe3a88842f619cb844995cac1aaeb7edc67.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\JingXiApp_Android\easeui\unspecified\jars\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0db3cfde777852d97d31f7a782abee41514f94dc">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\BaiduLBS_Android_b39a612449221eec00c8c8b75a93509771a29bd1.jar" />
+    </item>
+    <item
+        jar="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="F:\ASWorkSpace\JingXiApp_Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_30bc90dd13c1b32a2938a9e8ba1d98aaa2e7838b.jar" />
+    </item>
+
+</items>

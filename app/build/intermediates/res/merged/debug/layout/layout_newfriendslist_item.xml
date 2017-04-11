@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/chests_item_text"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:paddingLeft="15dp"
+            android:background="@color/white">
+            <com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView
+                android:id="@+id/newfriends_item_head"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/touxiang_yuan"
+                app:riv_oval="true"
+                />
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="fill_parent">
+              <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                 android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical"
+                android:layout_marginLeft="15dp">
+                  <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/newfriends_item_name"
+                        android:singleLine="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="少女的情怀"
+                        android:textSize="14sp"
+                        android:textColor="@color/im_head_black"/>
+
+                </LinearLayout>
+
+
+                    <TextView
+                        android:id="@+id/newfriends_item_hint"
+                        android:layout_marginTop="10dp"
+                        android:singleLine="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="hi，我是大风，请求添加你为好友"
+                        android:textColor="@color/im_head_gray"
+                        android:textSize="12sp"
+                        />
+
+            </LinearLayout>
+                <TextView
+                    android:id="@+id/newfriends_item_receiver"
+                    android:layout_width="50dp"
+                    android:layout_height="26dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:background="@drawable/stroke_corner_transparent_background"
+                    android:gravity="center"
+                    android:text="接受"
+                    android:textColor="@color/red"
+                    android:textSize="11sp"/>
+            </RelativeLayout>
+
+        </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="@color/divider_gray" />
+</LinearLayout>

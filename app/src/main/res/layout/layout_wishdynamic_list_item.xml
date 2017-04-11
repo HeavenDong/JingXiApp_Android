@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+        <LinearLayout
+            android:id="@+id/chests_item_text"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:paddingLeft="15dp"
+            android:orientation="horizontal"
+            android:background="@color/white">
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+            >
+                <com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView
+                    android:id="@+id/wish_dynamic_head"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:scaleType="fitXY"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/touxiang_yuan"
+                    app:riv_oval="true"
+                    />
+                <TextView
+                    android:id="@+id/wish_dynamic_number"
+                    android:visibility="gone"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="8sp"
+                    android:layout_alignRight="@+id/wish_dynamic_head"
+                    android:background="@drawable/img_red_circle_background"/>
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="fill_parent">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="15dp">
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        >
+                        <TextView
+                            android:id="@+id/wish_dynamic_name"
+                            android:singleLine="true"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:layout_gravity="center_vertical"
+                            android:text="浪浪浪"
+                            android:textSize="13sp"
+                            android:textColor="@color/im_head_black"/>
+
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/wish_dynamic_content"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="这个礼物我喜欢"
+                        android:textColor="@color/im_head_gray"
+                        android:textSize="11sp"
+                        />
+                </LinearLayout>
+                <TextView
+                    android:id="@+id/wish_dynamic_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="22dp"
+                    android:text="09-11"
+                    android:textColor="@color/im_head_gray"
+                    android:textSize="10sp"/>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:layout_marginLeft="15dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/divider_gray" />
+            </RelativeLayout>
+
+        </LinearLayout>
+</LinearLayout>

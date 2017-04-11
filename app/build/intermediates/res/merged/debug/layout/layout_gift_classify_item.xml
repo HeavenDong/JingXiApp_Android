@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView
+        android:id="@+id/gift_class_img"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/fenlei"
+        android:scaleType="fitXY"
+        app:riv_oval="true"/>
+    <TextView
+        android:id="@+id/gift_class_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="#444444"
+        android:textSize="12sp"
+        android:text="爆款"
+        />
+
+</LinearLayout>

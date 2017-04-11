@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_remove_from_blacklist.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\menu\\em_remove_from_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\em_delete_message.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\menu\\em_delete_message.xml"
+    }
+]

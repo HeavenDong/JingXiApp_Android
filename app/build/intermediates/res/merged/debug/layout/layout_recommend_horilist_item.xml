@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:background="@color/white"
+    >
+   <com.zhuyun.jingxi.android.view.CirclrDegreeView
+            android:id="@+id/hori_item_img"
+            android:layout_width="215dp"
+            android:layout_height="118dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/gongluetuijian"
+      />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="9dp"
+        android:text="工作后送她的第一个纪念品"
+        android:textSize="11sp"
+        android:textColor="@color/im_head_black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="7dp"
+        android:text="108人许愿"
+        android:textSize="8sp"
+        android:textColor="@color/im_head_gray"/>
+</LinearLayout>

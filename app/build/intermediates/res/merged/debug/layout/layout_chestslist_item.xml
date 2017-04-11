@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/back"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:id="@+id/chests_item_text"
+            android:layout_width="match_parent"
+            android:layout_height="77dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:background="@color/white">
+            <com.zhuyun.jingxi.android.view.CirclrDegreeView
+                android:id="@+id/chests_item_img"
+                android:layout_width="57dp"
+                android:layout_height="57dp"
+                android:scaleType="center"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/baoxiangtupian"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="15dp">
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:id="@+id/chests_item_title"
+                        android:singleLine="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1"
+                        android:text="少女的情怀"
+                        android:textSize="13sp"
+                        android:textColor="@color/im_head_black"/>
+                    <TextView
+                        android:id="@+id/chests_item_times"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="09-01 00:00"
+                        android:textSize="8sp"
+                        android:textColor="@color/im_head_gray"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="送礼人:"
+                        android:textColor="@color/im_head_gray"
+                        android:textSize="10sp"
+                        />
+
+                    <TextView
+                        android:id="@+id/chests_item_nick"
+                        android:singleLine="true"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="浪浪浪浪浪浪"
+                        android:textSize="10dp"
+                        android:textColor="@color/im_head_gray"
+                        android:layout_gravity="center_vertical"
+                        />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="6dp"
+                        android:src="@drawable/nv"/>
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+        <ImageView
+            android:id="@+id/chests_item_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/chests_item_text"
+            android:layout_alignRight="@id/chests_item_text"
+            android:src="@drawable/yiduihuan"/>
+    </RelativeLayout>
+
+</LinearLayout>

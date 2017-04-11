@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back">
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/recommend_swip_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+         <com.zhuyun.jingxi.android.view.HeaderGridView
+            android:id="@+id/recommend_grid"
+            android:numColumns="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:verticalSpacing="10dp"
+            android:horizontalSpacing="-10dp"
+            android:overScrollMode="never"
+            android:scrollbars="none"
+            />
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

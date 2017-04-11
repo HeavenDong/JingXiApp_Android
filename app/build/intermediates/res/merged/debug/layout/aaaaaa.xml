@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:background="#333333"
+        android:text="测试"
+        android:textSize="15sp"
+        android:textColor="@color/white"/>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+    <ImageView
+        android:id="@+id/text_img"
+         android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        />
+</RelativeLayout>
+
+    <Button
+        android:id="@+id/butt21"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="分享到微信好友 测试分享网页"/>
+    <Button
+        android:id="@+id/butt22"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="分享到微信好友 测试文字"/>
+    <Button
+        android:id="@+id/butt23"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="分享到微信朋友圈  测试分享网页"/>
+    <Button
+        android:id="@+id/butt24"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="分享到微信朋友圈   测试文字"/>
+    <Button
+        android:id="@+id/butt3"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="测试GaoDeMapActivity"/>
+
+
+    <Button
+        android:id="@+id/butt1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="测试JumpActivity"/>
+    <Button
+        android:id="@+id/butt4"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="测试ShareSDK"/>
+    <Button
+        android:id="@+id/butt5"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="测试自定义UI的分享"/>
+    <Button
+        android:id="@+id/butt6"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:text="修改密码"/>
+</LinearLayout>

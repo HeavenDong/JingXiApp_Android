@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+       <com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView
+           android:id="@+id/select_friends_item_img"
+           android:layout_width="50dp"
+           android:layout_height="50dp"
+          android:layout_gravity="center_horizontal"
+           android:src="@drawable/touxiang_yuan"
+           app:riv_oval="true"
+           />
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center_horizontal"
+           android:layout_marginTop="10dp">
+           <TextView
+               android:id="@+id/select_friends_item_name"
+               android:singleLine="true"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="小茗"
+               android:textSize="13sp"
+               android:textColor="@color/im_head_black"/>
+           <ImageView
+               android:id="@+id/select_friends_item_sex"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center_vertical"
+               android:layout_marginLeft="5dp"
+               android:src="@drawable/nv"/>
+       </LinearLayout>
+   </LinearLayout>
+
+
+</LinearLayout>

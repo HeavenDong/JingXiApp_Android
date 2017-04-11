@@ -1,0 +1,902 @@
+[
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_settingfriends_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_settingfriends_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_login_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_contact_list.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_confirmorder_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_confirmorder_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_select_constellation_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_select_constellation_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_add_blacklist_popu.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_add_blacklist_popu.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_menu_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_grid.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_grid.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_video_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_video_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_pick_contacts.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friends_delect_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friends_delect_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friends_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friends_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdetails_horilist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdetails_horilist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addreceiver_msg_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_addreceiver_msg_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_myfriends_grid_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_myfriends_grid_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_jump.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_jump.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_conversation_list.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_register.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_register.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_cyclewheel_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_cyclewheel_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wish_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wish_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_bigexpression.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_cropimg_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_cropimg_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_publishwish_grid_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_publishwish_grid_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addfriend_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_addfriend_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_contact.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_contact.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wonderfulundefined_listitem.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wonderfulundefined_listitem.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_recommend.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_recommend.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdetails_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdetails_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_imlist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_imlist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_webshare_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_webshare_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_primary_menu.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_newfriendslist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_newfriendslist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_enter_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_enter_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_image.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_context_menu_for_image.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_bigexpression.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_person_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_my_person_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_myedit_mobile_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_myedit_mobile_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_chat_primary_menu.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_detailsrecord_receivedgift_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_detailsrecord_receivedgift_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hot_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_hot_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_changepsw_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_changepsw_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_record_sendgift_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_record_sendgift_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_delete_receivemassege_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_delete_receivemassege_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_picture.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_picture.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_location.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_location.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_publishwish_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_publishwish_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_file.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_file.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_addpic_pop.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_my_addpic_pop.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recommend_horilist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_recommend_horilist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_forgotpsw_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_forgotpsw_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wonderfulundefined_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wonderfulundefined_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_finish_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_my_finish_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_address_lv_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_address_lv_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_receiver_msg_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_receiver_msg_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pick_at_user.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_pick_at_user.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_newfriends_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_newfriends_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_my_setting_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_my_setting_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_commom_back_btn.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_fragment_chat.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_fragment_chat.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_sendgiftrecord_list_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_sendgiftrecord_list_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_toast.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_toast.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_applyfriends_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_applyfriends_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_strategylist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_strategylist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_contact_with_checkbox.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_accounts_login_fragment.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_accounts_login_fragment.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_search_bar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_message.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_message.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_star_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_star_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_strategydetails_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_strategydetails_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friends_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friends_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_video.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_hot_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_hot_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdiscuss_list_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdiscuss_list_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gaode.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_gaode.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addfriendslist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_addfriendslist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_layout_emojicon_menu.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_share.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_share.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_starlist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_starlist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_expression_gridview.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_expression_gridview.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_newfriend_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_newfriend_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_chat_message_list.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_chat_message_list.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_strategy.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_strategy.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_myedit_nick_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_myedit_nick_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_baidumap.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_gift.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_fragment_gift.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_classify.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_classify.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friendlist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friendlist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recommend_grid_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_recommend_grid_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_search_bar_with_padding.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wish_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wish_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_big_expression.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_big_expression.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aaaaaa.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\aaaaaa.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_switch_button.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_search_result_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_search_result_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_home.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_fragment_home.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_logout_actionsheet.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_logout_actionsheet.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishhome_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishhome_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_widget_contact_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_widget_contact_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_freeselect_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_freeselect_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_choose_griditem.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_choose_griditem.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_alert_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_alert_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_conversation_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_conversation_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishlist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishlist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_text.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_context_menu_for_text.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdetails_head2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdetails_head2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_editreceiver_msg_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_editreceiver_msg_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_details.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_group_details.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_video.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_context_menu_for_video.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_classify_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_classify_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\share_item_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\share_item_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_voice.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_voice.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_crowdfunding_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_crowdfunding_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_file.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_activity_show_file.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_receivedgiftrecord_list_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_receivedgiftrecord_list_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_birthday_grid_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_birthday_grid_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_row_search_message.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_row_search_message.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_image_grid_fragment.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_image_grid_fragment.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wish_discuss_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wish_discuss_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_file.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_file.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_message.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_message.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mobile_login_fragment.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_mobile_login_fragment.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_changeremarks_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_changeremarks_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friends_phone_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friends_phone_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdetails_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdetails_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_activity_show_big_image.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_ppstream.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_fragment_ppstream.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_strategydetails_listitem.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_strategydetails_listitem.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_giftrecommend_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_giftrecommend_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_huanxin.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_huanxin.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_receiver_msg_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_receiver_msg_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_city_lv_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_city_lv_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_select_sex_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_select_sex_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_chat.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_chat.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_video_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon_tab_bar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_record_receivedgift_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_record_receivedgift_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_home_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_user_profile.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_user_profile.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_giftdetails_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_giftdetails_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_title_bar.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chests_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_chests_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_emojicon.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_emojicon.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_expression.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_expression.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_received_location.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_received_location.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_voice.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_edit.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_edit.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_chestslist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_chestslist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_myfriendslist_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_myfriendslist_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_pick_contact_no_checkbox.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_paygift_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_paygift_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_voice.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_search_message.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_group_search_message.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_context_menu_for_location.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_context_menu_for_location.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_video.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_video.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_chat_history.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_chat_history.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_classify_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_classify_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_gift_search_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_gift_search_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdynamic_list_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdynamic_list_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_im_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_im_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_chat_neterror_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_chat_neterror_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_homelist_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_homelist_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_edit_sex_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_edit_sex_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_friends_phone_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_friends_phone_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_voice_call.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_voice_call.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_contact_list.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_edit_nickname_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_edit_nickname_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_emojicon.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_recorder_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_recorder_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_birthdayremind_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_birthdayremind_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_im.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_fragment_im.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_showvideo_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_detailsrecord_sendgift_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_detailsrecord_sendgift_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_chat_input_menu.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_widget_voice_recorder.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_home_fragment_dialog.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_home_fragment_dialog.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_wishdynamic_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_wishdynamic_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_scroll_tab_item.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_addfriend_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_addfriend_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_fragment_me.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_fragment_me.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_address_activity.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_address_activity.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\em_activity_group_blacklist.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\em_activity_group_blacklist.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_strategydetails_head.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\layout\\layout_strategydetails_head.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ease_row_sent_picture.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\layout\\ease_row_sent_picture.xml"
+    }
+]

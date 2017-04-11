@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+        <ImageView
+            android:layout_width="345dp"
+            android:layout_height="138dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"
+            android:src="@drawable/lipinwu_banner"/>
+        <TextView
+            android:id="@+id/strategy_listitem_context"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="工作后，送她的第一件礼物"
+            android:textColor="@color/im_head_black"
+            android:textSize="13sp"/>
+        <TextView
+            android:id="@+id/strategy_listitem_wishcount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingBottom="10dp"
+            android:gravity="center"
+            android:text="10000许愿"
+            android:textColor="@color/im_head_gray"
+            android:textSize="13sp"/>
+    </LinearLayout>
+
+</LinearLayout>

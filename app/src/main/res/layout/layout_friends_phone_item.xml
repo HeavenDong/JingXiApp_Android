@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:background="@color/white">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/phone_divider_line"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            >
+
+            <TextView
+                android:id="@+id/friends_phone_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:text="董海峰"
+                android:singleLine="true"
+                android:textColor="@color/im_head_black"
+                android:textSize="14sp" />
+
+            <TextView
+                android:visibility="invisible"
+                android:id="@+id/friends_phone_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+
+                android:text="123456789"
+                android:textColor="@color/gray_text"
+                android:textSize="16sp" />
+            <TextView
+                android:id="@+id/phone_listitem_butt"
+                android:layout_width="50dp"
+                android:layout_height="26dp"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:background="@drawable/img_red_transparency_fillet_background"
+                android:textColor="@color/red"
+                android:text="邀请"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

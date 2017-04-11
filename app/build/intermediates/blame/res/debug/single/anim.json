@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_refresh_drawable_default.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\rotate_refresh_drawable_default.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\push_top_out2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_wishhome_bottom_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_wishhome_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\push_top_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_right_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_right_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_right_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in2.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\push_top_in2.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_from_icon.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\voice_from_icon.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\head_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\voice_to_icon.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\voice_to_icon.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\head_out.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\head_out.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_top_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\push_top_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\JingXiApp_Android\\easeui\\unspecified\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\ASWorkSpace\\JingXiApp_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

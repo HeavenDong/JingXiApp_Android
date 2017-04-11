@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/title_color">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="好友"
+            android:textSize="15sp"
+            android:textColor="@color/white"/>
+        <ImageView
+            android:id="@+id/myfriends_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="8dp"
+            android:src="@drawable/fanhui"/>
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/myfriends_swip_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       >
+        <com.zhuyun.jingxi.android.view.HeaderGridView
+            android:id="@+id/myfriends_grid"
+            android:numColumns="3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:verticalSpacing="20dp"
+            android:horizontalSpacing="59dp"
+            android:paddingLeft="38dp"
+            android:paddingRight="38dp"
+            android:scrollbars="none"
+            android:overScrollMode="never"
+            />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

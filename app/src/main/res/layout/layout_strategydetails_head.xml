@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <ImageView
+           android:id="@+id/strategy_details_head_img"
+           android:layout_width="match_parent"
+           android:layout_height="166dp"
+           android:scaleType="fitXY"
+           android:src="@drawable/lipinwu_banner"/>
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="166dp"
+           android:scaleType="fitXY"
+           android:src="@drawable/item_back"/>
+       <TextView
+           android:id="@+id/strategy_details_head_des"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginBottom="10dp"
+           android:layout_centerHorizontal="true"
+           android:layout_alignBottom="@+id/strategy_details_head_img"
+           android:text="戒子不能乱带，它的意义你造吗？"
+           android:textColor="@color/white"/>
+   </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:maxLines="3"
+        android:paddingTop="20dp"
+        android:paddingBottom="10dp"
+        android:textSize="14sp"
+        android:textColor="@color/im_head_black"
+        android:text="夫君子之行，静以修身，俭以养德，非淡泊无以明志， 非宁静无以致远。夫学须静也，才须学也，非学无以广才， 非志无以成学。淫慢则不能励精，险躁则不能治性。年与时 驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及!"/>
+
+</LinearLayout>

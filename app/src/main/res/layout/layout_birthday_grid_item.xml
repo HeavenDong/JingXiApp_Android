@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView
+            android:id="@+id/birthday_item_head"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/touxiang_yuan"
+            app:riv_oval="true"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/birthday_item_head">
+            <CheckBox
+                android:id="@+id/birthday_item_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:background="@drawable/birthday_check_style"
+       />
+        </RelativeLayout>
+
+    </RelativeLayout>
+     <TextView
+         android:id="@+id/birthday_item_name"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center_horizontal"
+         android:layout_marginTop="10dp"
+         android:text="岁月轻狂"
+         android:textSize="13dp"
+         android:textColor="@color/im_head_black"/>
+       <TextView
+           android:id="@+id/birthday_item_time"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="10dp"
+           android:layout_gravity="center_horizontal"
+           android:text="9月11日"
+           android:textSize="9dp"
+           android:textColor="@color/im_head_gray"/>
+</LinearLayout>
+
+</LinearLayout>

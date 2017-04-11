@@ -1,0 +1,445 @@
+TASK com.zhuyun.jingxi.android id=31
+  ACTIVITY com.zhuyun.jingxi.android/.activty.ConfirmOrderActivity 536d8fa8 pid=21667
+    Local FragmentActivity 535c82b0 State:
+      mCreated=truemResumed=true mStopped=false mReallyStopped=false
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@539464e4
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@539464e4
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{5392adec V.E..... ... 0,0-540,960}
+        android.widget.LinearLayout{5392af10 V.E..... ... 0,0-540,960}
+          android.view.ViewStub{538ed1e0 G.E..... ... 0,0-0,0 #1020314}
+          android.widget.FrameLayout{5392b354 V.ED.... ... 0,38-540,960 #1020002 android:id/content}
+            android.widget.RelativeLayout{5392b458 V.E..... ... 0,0-540,922}
+              android.widget.LinearLayout{538e6d00 V.E..... ... 0,0-540,922}
+                android.widget.RelativeLayout{538e6e0c V.E..... ... 0,0-540,66}
+                  android.widget.TextView{538e6f10 V.ED.... ... 224,17-316,49}
+                  android.widget.ImageView{53947450 V.ED..C. ... 0,10-68,55 #7f0c00a2 app:id/publishwish_back}
+                android.widget.RelativeLayout{538e73e8 V.E..... ... 0,66-540,922}
+                  android.widget.ScrollView{53936878 VFED.... ... 0,0-540,856}
+                    android.widget.LinearLayout{53936bdc V.E..... ... 0,0-540,816}
+                      android.widget.ImageView{53936d44 V.ED.... ... 0,0-540,270}
+                      android.widget.LinearLayout{53936eb8 V.E..... ... 0,270-540,336}
+                        android.widget.TextView{538f1830 V.ED.... ... 23,19-103,47}
+                      android.widget.LinearLayout{538f1970 V.E..... ... 0,351-540,416}
+                        android.widget.TextView{538f1b04 V.ED.... ... 23,18-63,46}
+                      android.widget.LinearLayout{538f1d14 V.E..... ... 0,416-540,598}
+                        com.zhuyun.jingxi.android.view.MyGridView{538f1f50 VFED..C. F.. 23,0-517,97 #7f0c00a3 app:id/publishwish_grid}
+                          android.widget.LinearLayout{538edf84 V.E..... ... 0,0-86,41}
+                            android.widget.TextView{538ee0d0 V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{5392fef0 V.E..... ... 101,0-187,41}
+                            android.widget.TextView{5393004c V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{53930524 V.E..... ... 202,0-288,41}
+                            android.widget.TextView{5393068c V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{53930b64 V.E..... ... 303,0-389,41}
+                            android.widget.TextView{53930ccc V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{539311a4 V.E..... ... 404,0-490,41}
+                            android.widget.TextView{5393130c V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{539317e4 V.E..... ... 0,56-86,97}
+                            android.widget.TextView{5393194c V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{53931e24 V.E..... ... 101,56-187,97}
+                            android.widget.TextView{53931f8c V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                          android.widget.LinearLayout{53932464 V.E..... ... 202,56-288,97}
+                            android.widget.TextView{539325cc V.ED..C. ... 0,0-75,41 #7f0c018a app:id/publishwish_item_standard}
+                        android.view.View{539278a8 V.ED.... ... 23,115-517,116}
+                        android.widget.LinearLayout{539279e0 V.E..... ... 23,116-517,182}
+                          android.widget.TextView{53927b64 V.ED.... ... 0,19-343,47}
+                          android.widget.LinearLayout{53927d74 V.E..... ... 343,10-494,55}
+                            android.widget.ImageView{538e85c8 V.ED..C. ... 0,0-45,45 #7f0c00a4 app:id/buy_jian}
+                            android.widget.TextView{538e86dc V.ED.... ... 47,0-104,45 #7f0c00a5 app:id/buy_number}
+                            android.widget.ImageView{538e8954 V.ED..C. ... 106,0-151,45 #7f0c00a6 app:id/buy_jia}
+                      android.widget.LinearLayout{538e8ac8 V.E..... ... 0,613-540,688}
+                        android.widget.TextView{538e8cc0 V.ED.... ... 23,23-433,51}
+                        android.widget.TextView{538e8ec8 V.ED.... ... 433,25-487,50}
+                        android.widget.ImageView{538e90d8 V.ED.... ... 487,22-517,52}
+                      android.widget.LinearLayout{53948220 V.E..... ... 0,703-540,816}
+                        android.widget.TextView{53948398 V.ED.... ... 23,23-103,51}
+                        android.widget.EditText{539485c8 VFED..CL ... 126,27-211,50}
+                  android.widget.TextView{53948bf8 V.ED..C. ... 0,788-540,856 #7f0c00a7 app:id/gopay_butt}
+
+  ACTIVITY com.zhuyun.jingxi.android/.activty.GiftDetailsActivity 536c2b80 pid=21667
+    Local FragmentActivity 535be6d4 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53916f6c
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@53916f6c
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{535c9f04 I.E..... ... 0,0-540,960}
+        android.widget.LinearLayout{535ca028 V.E..... ... 0,0-540,960}
+          android.view.ViewStub{535c0ad4 G.E..... ... 0,0-0,0 #1020314}
+          android.widget.FrameLayout{535c8470 V.ED.... ... 0,38-540,960 #1020002 android:id/content}
+            android.widget.LinearLayout{5392a398 V.E..... ... 0,0-540,922}
+              android.widget.RelativeLayout{535ca134 V.E..... ... 0,0-540,66}
+                android.widget.TextView{53934a6c V.ED.... ... 224,17-316,49}
+                android.widget.ImageView{538ecd9c V.ED..C. ... 0,10-68,55 #7f0c010a app:id/giftdetail_back}
+              android.widget.RelativeLayout{53929314 V.E..... ... 0,66-540,922}
+                com.zhuyun.jingxi.android.view.snapscrollview.McoyScrollView{53929418 VFED.V.. ... 0,0-540,856 #7f0c00b4 app:id/giftdetails_scrollview}
+                  android.widget.LinearLayout{53929550 V.E..... ... 0,0-540,1094}
+                    android.widget.ImageView{53933a84 V.ED.... ... 0,0-540,236}
+                    android.widget.LinearLayout{5392965c V.E..... ... 0,236-540,711}
+                      android.widget.TextView{53929768 V.ED.... ... 23,30-191,63}
+                      android.widget.TextView{539298a8 V.ED.... ... 23,86-71,111}
+                      android.widget.TextView{538ed7bc V.ED.... ... 23,147-517,445}
+                    android.widget.LinearLayout{538ed8fc V.E..... ... 0,726-540,1094}
+                      android.widget.ImageView{535cbc3c V.ED.... ... 15,15-525,353}
+                android.widget.LinearLayout{538eda08 V.E..... ... 0,788-540,856}
+                  android.widget.TextView{538edb14 V.ED..C. ... 0,0-269,68 #7f0c010b app:id/go_wish}
+                  android.view.View{53921aa0 V.ED.... ... 269,16-271,52}
+                  android.widget.TextView{538edc54 V.ED..C. ... 271,0-540,68 #7f0c010c app:id/go_buy}
+
+  ACTIVITY com.zhuyun.jingxi.android/.activty.MainActivity 536cbc30 pid=21667
+    Local FragmentActivity 53940e88 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    Active Fragments in 53940fe0:
+      #0: HomeFragment{539463f0 #0 id=0x7f0c0059 home}
+        mFragmentId=#7f0c0059 mContainerId=#7f0c0059 mTag=home
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=true mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{53940fe0 in HostCallbacks{53940fc4}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+        mSavedViewState=android.util.SparseArray@538ebffc
+        mContainer=android.widget.FrameLayout@539424b4
+        mView=android.widget.LinearLayout@5394ce70
+        mInnerView=android.widget.LinearLayout@5394ce70
+        Child FragmentManager{5394cc08 in HomeFragment{539463f0}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+            mContainer=android.support.v4.app.Fragment$1@5394cc48
+            mParent=HomeFragment{539463f0 #0 id=0x7f0c0059 home}
+            mCurState=2 mStateSaved=true mDestroyed=false
+      #1: GiftFragment{53946960 #1 id=0x7f0c0059 connect}
+        mFragmentId=#7f0c0059 mContainerId=#7f0c0059 mTag=connect
+        mState=2 mIndex=1 mWho=android:fragment:1 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{53940fe0 in HostCallbacks{53940fc4}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+        mSavedViewState=android.util.SparseArray@538ec330
+        mContainer=android.widget.FrameLayout@539424b4
+        mView=android.widget.LinearLayout@53946668
+        mInnerView=android.widget.LinearLayout@53946668
+        Child FragmentManager{53944be8 in GiftFragment{53946960}}:
+          Active Fragments in 53944be8:
+            #0: RecommendFragment{535d5c74 #0 id=0x7f0c00de recommend}
+              mFragmentId=#7f0c00de mContainerId=#7f0c00de mTag=recommend
+              mState=2 mIndex=0 mWho=android:fragment:1:0 mBackStackNesting=0
+              mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+              mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+              mRetainInstance=false mRetaining=false mUserVisibleHint=true
+              mFragmentManager=FragmentManager{53944be8 in GiftFragment{53946960}}
+              mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+              mParentFragment=GiftFragment{53946960 #1 id=0x7f0c0059 connect}
+              mSavedViewState=android.util.SparseArray@538ec12c
+              mContainer=android.widget.FrameLayout@5394479c
+              mView=android.widget.LinearLayout@535d7a10
+              mInnerView=android.widget.LinearLayout@535d7a10
+              Child FragmentManager{5394f858 in RecommendFragment{535d5c74}}:
+                FragmentManager misc state:
+                  mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+                  mContainer=android.support.v4.app.Fragment$1@539448cc
+                  mParent=RecommendFragment{535d5c74 #0 id=0x7f0c00de recommend}
+                  mCurState=2 mStateSaved=true mDestroyed=false
+          Added Fragments:
+            #0: RecommendFragment{535d5c74 #0 id=0x7f0c00de recommend}
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+            mContainer=android.support.v4.app.Fragment$1@53944c28
+            mParent=GiftFragment{53946960 #1 id=0x7f0c0059 connect}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: HomeFragment{539463f0 #0 id=0x7f0c0059 home}
+      #1: GiftFragment{53946960 #1 id=0x7f0c0059 connect}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@53940fc4
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{5394160c I.E..... ... 0,0-540,960}
+        android.widget.LinearLayout{53941914 V.E..... ... 0,0-540,960}
+          android.view.ViewStub{53941e90 G.E..... ... 0,0-0,0 #1020314}
+          android.widget.FrameLayout{53941f84 V.ED.... ... 0,38-540,960 #1020002 android:id/content}
+            android.widget.LinearLayout{5394230c V.E..... ... 0,0-540,922}
+              android.widget.FrameLayout{539424b4 V.E..... ... 0,0-540,847 #7f0c0059 app:id/main_frame_fl}
+                android.widget.LinearLayout{5394ce70 G.E..... ... 0,0-540,847}
+                  android.widget.RelativeLayout{5394d0a0 V.E..... ... 0,0-540,66}
+                    android.widget.TextView{5394d394 V.ED.... ... 235,17-304,49}
+                    android.widget.ImageView{5394d5f8 V.ED..C. ... 490,0-540,66 #7f0c00df app:id/home_togift}
+                  android.support.v4.widget.SwipeRefreshLayout{5394e218 V.ED.... ... 0,66-540,847 #7f0c00e0 app:id/home_swip_refresh}
+                    android.support.v4.widget.CircleImageView{5394ed0c G.ED.... ... 235,-70-305,0}
+                    android.widget.ListView{53950ba8 VFED..C. ... 0,0-540,781 #7f0c00e1 app:id/home_listview}
+                      android.widget.LinearLayout{539517e4 V.E..... ... 0,0-540,284 #7f0c0111 app:id/view_relat}
+                        android.widget.RelativeLayout{539519e8 V.E..... ... 0,0-540,146}
+                          android.support.v4.view.ViewPager{53951c74 VFED.... ... 0,0-540,146 #7f0c0112 app:id/home_viewpager}
+                            android.widget.ImageView{5395ef74 V.ED.... ... 540,0-1080,146}
+                            android.widget.ImageView{5395ee60 V.ED.... ... 0,0-540,146}
+                          android.widget.LinearLayout{539520b8 V.E..... ... 259,130-281,138}
+                            android.widget.ImageView{53952290 V.ED.... ... 0,0-8,8 #7f0c0113 app:id/point1}
+                            android.widget.ImageView{539523c0 V.ED.... ... 14,0-22,8 #7f0c0114 app:id/point2}
+                        android.widget.LinearLayout{539524f0 V.E..... ... 0,146-540,284}
+                          android.widget.RelativeLayout{539526e8 V.E..... ... 0,19-135,119 #7f0c0115 app:id/home_wish}
+                            android.widget.ImageView{53952938 V.ED..C. ... 33,0-101,68 #7f0c0116 app:id/wish_img}
+                            android.widget.TextView{53955084 V.ED.... ... 52,79-82,100}
+                          android.widget.RelativeLayout{539552c4 V.E...C. ... 135,19-270,119 #7f0c0117 app:id/home_box}
+                            android.widget.ImageView{53955514 V.ED.... ... 33,0-101,68 #7f0c0118 app:id/box_img}
+                            android.widget.TextView{53957c44 V.ED.... ... 52,79-82,100}
+                          android.widget.RelativeLayout{53957e84 V.E...C. ... 270,19-405,119 #7f0c0119 app:id/home_star}
+                            android.widget.ImageView{539580d4 V.ED.... ... 33,0-101,68 #7f0c011a app:id/star_img}
+                            android.widget.TextView{5395a800 V.ED.... ... 52,79-82,100}
+                          android.widget.RelativeLayout{5395aa40 V.E...C. ... 405,19-540,119 #7f0c011b app:id/home_friend}
+                            android.widget.ImageView{5395ac90 V.ED.... ... 33,0-101,68 #7f0c011c app:id/friend_img}
+                            android.widget.TextView{5395d3bc V.ED.... ... 52,79-82,100}
+                      android.widget.LinearLayout{535ca3a0 V.E..... ... 0,284-540,765}
+                        android.view.View{535a7e38 V.ED.... ... 0,0-540,15}
+                        android.widget.RelativeLayout{5393bc50 V.E..... ... 0,15-540,75}
+                          com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView{5393c848 V.ED..C. ... 23,6-71,54 #7f0c011d app:id/home_item_head}
+                          android.widget.LinearLayout{535c7b04 V.E..... ... 83,17-198,42}
+                            android.widget.LinearLayout{535d2a38 V.E..... ... 0,0-115,25}
+                              android.widget.TextView{535d4208 V.ED.... ... 0,0-91,25 #7f0c011e app:id/item_name}
+                              android.widget.ImageView{535d5a50 V.ED.... ... 100,5-115,20}
+                          android.widget.TextView{5392acac V.ED.... ... 466,22-517,37}
+                        android.widget.TextView{539408bc V.ED.... ... 23,84-517,159 #7f0c011f app:id/shuoming}
+                        android.widget.ImageView{535a383c V.ED.... ... 23,159-517,366 #7f0c0120 app:id/home_img_item}
+                        android.widget.TextView{5394eb30 V.ED.... ... 0,366-540,420 #7f0c0121 app:id/gift_name}
+                        android.view.View{535bef5c V.ED.... ... 0,420-540,421}
+                        android.widget.LinearLayout{535c8970 V.E..... ... 0,421-540,481}
+                          android.widget.RelativeLayout{5393bf40 V.E...C. ... 0,7-180,52 #7f0c0122 app:id/home_item_crowd}
+                            android.widget.ImageView{535cb23c V.ED.... ... 67,0-112,45 #7f0c0123 app:id/item_crowd}
+                            android.widget.TextView{535a75f8 V.ED.... ... 121,14-145,31}
+                          android.widget.RelativeLayout{535bd9d8 V.E..... ... 180,7-360,52 #7f0c0124 app:id/home_item_good}
+                            android.widget.ImageView{539472f4 V.ED.... ... 67,0-112,45 #7f0c0125 app:id/item_good}
+                            android.widget.TextView{5394e3c8 V.ED.... ... 121,14-142,31 #7f0c0126 app:id/item_good_number}
+                          android.widget.RelativeLayout{535aaa88 V.E...C. ... 360,7-540,52 #7f0c0127 app:id/home_item_discuss}
+                            android.widget.ImageView{535a78dc V.ED.... ... 67,0-112,45 #7f0c0128 app:id/item_discuss}
+                            android.widget.TextView{5394e608 V.ED.... ... 121,14-142,31 #7f0c0129 app:id/home_item_discuss_number}
+                      android.widget.LinearLayout{535d607c V.E..... ... 0,765-540,1246}
+                        android.view.View{535c2064 V.ED.... ... 0,0-540,15}
+                        android.widget.RelativeLayout{535c8fa4 V.E..... ... 0,15-540,75}
+                          com.zhuyun.jingxi.android.view.myroundedimageview.RoundedImageView{535a087c V.ED..C. ... 23,6-71,54 #7f0c011d app:id/home_item_head}
+                          android.widget.LinearLayout{5391d6cc V.E..... ... 83,17-198,42}
+                            android.widget.LinearLayout{53945e30 V.E..... ... 0,0-115,25}
+                              android.widget.TextView{5394e8b8 V.ED.... ... 0,0-91,25 #7f0c011e app:id/item_name}
+                              android.widget.ImageView{5394c834 V.ED.... ... 100,5-115,20}
+                          android.widget.TextView{539504fc V.ED.... ... 466,22-517,37}
+                        android.widget.TextView{535c18b0 V.ED.... ... 23,84-517,159 #7f0c011f app:id/shuoming}
+                        android.widget.ImageView{535c2450 V.ED.... ... 23,159-517,366 #7f0c0120 app:id/home_img_item}
+                        android.widget.TextView{535c1bd0 V.ED.... ... 0,366-540,420 #7f0c0121 app:id/gift_name}
+                        android.view.View{535d3d40 V.ED.... ... 0,420-540,421}
+                        android.widget.LinearLayout{53945f9c V.E..... ... 0,421-540,481}
+                          android.widget.RelativeLayout{5393e218 V.E...C. ... 0,7-180,52 #7f0c0122 app:id/home_item_crowd}
+                            android.widget.ImageView{5391ba80 V.ED.... ... 67,0-112,45 #7f0c0123 app:id/item_crowd}
+                            android.widget.TextView{535d6784 V.ED.... ... 121,14-145,31}
+                          android.widget.RelativeLayout{53940754 V.E..... ... 180,7-360,52 #7f0c0124 app:id/home_item_good}
+                            android.widget.ImageView{5392317c V.ED.... ... 67,0-112,45 #7f0c0125 app:id/item_good}
+                            android.widget.TextView{5393b5f0 V.ED.... ... 121,14-142,31 #7f0c0126 app:id/item_good_number}
+                          android.widget.RelativeLayout{53940a50 V.E...C. ... 360,7-540,52 #7f0c0127 app:id/home_item_discuss}
+                            android.widget.ImageView{53926438 V.ED.... ... 67,0-112,45 #7f0c0128 app:id/item_discuss}
+                            android.widget.TextView{53950930 V.ED.... ... 121,14-142,31 #7f0c0129 app:id/home_item_discuss_number}
+                android.widget.LinearLayout{53946668 V.E..... ... 0,0-540,847}
+                  android.widget.RelativeLayout{53946dc8 V.E..... ... 0,0-540,66}
+                    android.widget.TextView{535a2664 V.ED.... ... 235,17-304,49}
+                    android.widget.ImageView{535be44c V.ED..C. ... 493,21-540,45 #7f0c00d4 app:id/gift_search}
+                  android.widget.LinearLayout{53944a00 V.E..... ... 0,66-540,132}
+                    android.widget.RelativeLayout{53947aa4 V.E...C. ... 0,0-180,66 #7f0c00d5 app:id/tuijian}
+                      android.widget.TextView{535d4058 V.ED.... ... 0,0-180,66 #7f0c00d6 app:id/tuijian_tv}
+                      android.view.View{535c481c V.ED.... ... 63,63-117,66 #7f0c00d7 app:id/tuijian_line}
+                    android.widget.RelativeLayout{53947c28 V.E...C. ... 180,0-360,66 #7f0c00d8 app:id/fenlei}
+                      android.widget.TextView{5394f264 V.ED.... ... 0,0-180,66 #7f0c00d9 app:id/fenlei_tv}
+                      android.view.View{535be2dc G.ED.... ... 0,0-0,0 #7f0c00da app:id/fenlei_line}
+                    android.widget.RelativeLayout{535d3ec8 V.E...C. ... 360,0-540,66 #7f0c00db app:id/gonglue}
+                      android.widget.TextView{5394ee24 V.ED.... ... 0,0-180,66 #7f0c00dc app:id/gonglue_tv}
+                      android.view.View{539475f0 G.ED.... ... 0,0-0,0 #7f0c00dd app:id/gonglue_line}
+                  android.view.View{535bd708 V.ED.... ... 0,132-540,133}
+                  android.widget.FrameLayout{5394479c V.E..... ... 0,133-540,847 #7f0c00de app:id/gift_framelayout}
+                    android.widget.LinearLayout{535d7a10 V.E..... ... 0,0-540,714}
+                      android.support.v4.widget.SwipeRefreshLayout{53922a34 V.ED.... ... 0,0-540,714 #7f0c0106 app:id/recommend_swip_refresh}
+                        com.zhuyun.jingxi.android.view.HeaderGridView{535c14a0 VFED..C. F.. 0,0-540,714 #7f0c0107 app:id/recommend_grid}
+                          com.zhuyun.jingxi.android.view.HeaderGridView$FullWidthFixedViewLayout{53933ba0 V.E..... ... 0,0-540,1155}
+                            android.widget.LinearLayout{53925aa8 V.E..... ... 0,0-540,1155}
+                              android.widget.TextView{5393a75c V.ED.... ... 0,0-540,60}
+                              com.zhuyun.jingxi.android.view.HorizontalListView{5393c618 V.E..... ... 0,60-540,315 #7f0c010e app:id/recommend_hori_liatview}
+                                android.widget.LinearLayout{537a0b44 V.E..... ... 0,0-338,242}
+                                  com.zhuyun.jingxi.android.view.CirclrDegreeView{537a4eb0 V.ED.... ... 15,0-338,177 #7f0c009c app:id/hori_item_img}
+                                  android.widget.TextView{537a5088 V.ED.... ... 74,191-278,214}
+                                  android.widget.TextView{537a52a0 V.ED.... ... 148,225-205,242}
+                                android.widget.LinearLayout{537a5908 V.E..... ... 338,0-676,242}
+                                  com.zhuyun.jingxi.android.view.CirclrDegreeView{537a5ae4 V.ED.... ... 15,0-338,177 #7f0c009c app:id/hori_item_img}
+                                  android.widget.TextView{537a5c9c V.ED.... ... 74,191-278,214}
+                                  android.widget.TextView{537a5e90 V.ED.... ... 148,225-205,242}
+                              android.widget.RelativeLayout{539377a8 V.E..... ... 0,330-540,390}
+                                android.widget.TextView{53937a6c V.ED.... ... 15,17-87,42}
+                              com.zhuyun.jingxi.android.view.NoScrollGridView{53934f74 VFED..C. ... 0,405-540,1080 #7f0c010f app:id/hot_recommend_grid}
+                                android.widget.LinearLayout{5392dd80 V.E..... ... 0,0-277,330}
+                                  android.widget.LinearLayout{5392df5c V.E..... ... 15,0-262,330}
+                                    android.widget.RelativeLayout{5392e44c V.E..... ... 0,0-247,225}
+                                      android.widget.ImageView{5392e6c0 V.ED.... ... 0,0-247,225 #7f0c0195 app:id/grid_item_img}
+                                      android.widget.ImageView{5392e864 V.ED.... ... 0,0-247,8}
+                                    android.widget.RelativeLayout{5392eb8c V.E..... ... 15,240-232,315}
+                                      android.widget.TextView{5392edfc V.ED.... ... 0,0-217,23 #7f0c0196 app:id/grid_item_name}
+                                      android.widget.TextView{5392f03c V.ED.... ... 0,35-29,52 #7f0c0197 app:id/grid_item_price}
+                                      android.widget.TextView{5392f27c V.ED.... ... 181,54-217,75 #7f0c0198 app:id/grid_item_wish}
+                                android.widget.LinearLayout{537a62bc V.E..... ... 262,0-539,330}
+                                  android.widget.LinearLayout{537a6498 V.E..... ... 15,0-262,330}
+                                    android.widget.RelativeLayout{537a6710 V.E..... ... 0,0-247,225}
+                                      android.widget.ImageView{537a6960 V.ED.... ... 0,0-247,225 #7f0c0195 app:id/grid_item_img}
+                                      android.widget.ImageView{537a6b04 V.ED.... ... 0,0-247,8}
+                                    android.widget.RelativeLayout{537a6ca8 V.E..... ... 15,240-232,315}
+                                      android.widget.TextView{537a6ef8 V.ED.... ... 0,0-217,23 #7f0c0196 app:id/grid_item_name}
+                                      android.widget.TextView{537a711c V.ED.... ... 0,35-29,52 #7f0c0197 app:id/grid_item_price}
+                                      android.widget.TextView{537a7340 V.ED.... ... 181,54-217,75 #7f0c0198 app:id/grid_item_wish}
+                                android.widget.LinearLayout{537a7d6c V.E..... ... 0,345-277,675}
+                                  android.widget.LinearLayout{537a7f48 V.E..... ... 15,0-262,330}
+                                    android.widget.RelativeLayout{537a81c0 V.E..... ... 0,0-247,225}
+                                      android.widget.ImageView{537a8410 V.ED.... ... 0,0-247,225 #7f0c0195 app:id/grid_item_img}
+                                      android.widget.ImageView{537a85b4 V.ED.... ... 0,0-247,8}
+                                    android.widget.RelativeLayout{537a8758 V.E..... ... 15,240-232,315}
+                                      android.widget.TextView{537a89a8 V.ED.... ... 0,0-217,23 #7f0c0196 app:id/grid_item_name}
+                                      android.widget.TextView{537a8bcc V.ED.... ... 0,35-29,52 #7f0c0197 app:id/grid_item_price}
+                                      android.widget.TextView{537a8df0 V.ED.... ... 181,54-217,75 #7f0c0198 app:id/grid_item_wish}
+                                android.widget.LinearLayout{537a981c V.E..... ... 262,345-539,675}
+                                  android.widget.LinearLayout{537a99f8 V.E..... ... 15,0-262,330}
+                                    android.widget.RelativeLayout{537a9c70 V.E..... ... 0,0-247,225}
+                                      android.widget.ImageView{537a9ec0 V.ED.... ... 0,0-247,225 #7f0c0195 app:id/grid_item_img}
+                                      android.widget.ImageView{537aa064 V.ED.... ... 0,0-247,8}
+                                    android.widget.RelativeLayout{537aa208 V.E..... ... 15,240-232,315}
+                                      android.widget.TextView{537aa458 V.ED.... ... 0,0-217,23 #7f0c0196 app:id/grid_item_name}
+                                      android.widget.TextView{537aa67c V.ED.... ... 0,35-29,52 #7f0c0197 app:id/grid_item_price}
+                                      android.widget.TextView{537aa8a0 V.ED.... ... 181,54-217,75 #7f0c0198 app:id/grid_item_wish}
+                              android.widget.RelativeLayout{5392a568 V.E..... ... 0,1095-540,1155}
+                                android.widget.TextView{5392a82c V.ED.... ... 15,17-87,42}
+                          android.view.View{537ab298 I.ED.... ... 262,0-539,1155}
+                        android.support.v4.widget.CircleImageView{53950dcc G.ED.... ... 235,-70-305,0}
+              android.view.View{53942684 V.ED.... ... 0,847-540,848}
+              android.widget.LinearLayout{539427cc V.E..... ... 0,848-540,922}
+                android.widget.LinearLayout{539429c4 V.E...C. ... 0,6-135,72 #7f0c005a app:id/main_bottom_home_ll}
+                  android.widget.ImageView{53942b6c V.ED.... ... 45,0-90,45 #7f0c005b app:id/main_bottom_home_iv}
+                  android.widget.TextView{53942cbc V.ED.... ... 45,45-90,66 #7f0c005c app:id/main_bottom_home_tv}
+                android.widget.LinearLayout{53943308 V.E...C. ... 135,6-270,72 #7f0c005d app:id/main_bottom_connect_ll}
+                  android.widget.ImageView{5394348c V.ED.... ... 45,0-90,45 #7f0c005e app:id/main_bottom_connect_iv}
+                  android.widget.TextView{539435bc V.ED.... ... 45,45-90,66 #7f0c005f app:id/main_bottom_connect_tv}
+                android.widget.LinearLayout{539437cc V.E...C. ... 270,6-405,72 #7f0c0060 app:id/main_bottom_schedule_ll}
+                  android.widget.ImageView{53943950 V.ED.... ... 45,0-90,45 #7f0c0061 app:id/main_bottom_schedule_iv}
+                  android.widget.TextView{53943a80 V.ED.... ... 52,45-82,66 #7f0c0062 app:id/main_bottom_schedule_tv}
+                android.widget.LinearLayout{53943c90 V.E...C. ... 405,6-540,72 #7f0c0063 app:id/main_bottom_mall_ll}
+                  android.widget.ImageView{53943e14 V.ED.... ... 45,0-90,45 #7f0c0064 app:id/main_bottom_mall_iv}
+                  android.widget.TextView{53943f44 V.ED.... ... 60,45-75,66 #7f0c0065 app:id/main_bottom_mall_tv}
+
+  ACTIVITY com.zhuyun.jingxi.android/.activty.LoginActivity 536e2178 pid=21667
+    Local FragmentActivity 535cafa0 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    Active Fragments in 535abc24:
+      #0: AccountsLoginFragment{535d3e54 #0 id=0x7f0c0144 android:switcher:2131493188:0}
+        mFragmentId=#7f0c0144 mContainerId=#7f0c0144 mTag=android:switcher:2131493188:0
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=false mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=false
+        mFragmentManager=FragmentManager{535abc24 in HostCallbacks{535af298}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+        mSavedViewState=android.util.SparseArray@53946ba8
+        mContainer=android.support.v4.view.ViewPager@535d8368
+        mView=android.widget.LinearLayout@535a0978
+        mInnerView=android.widget.LinearLayout@535a0978
+        Child FragmentManager{535c3c08 in AccountsLoginFragment{535d3e54}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+            mContainer=android.support.v4.app.Fragment$1@535c3e10
+            mParent=AccountsLoginFragment{535d3e54 #0 id=0x7f0c0144 android:switcher:2131493188:0}
+            mCurState=2 mStateSaved=true mDestroyed=false
+      #1: MobileLoginFragment{535d43b4 #1 id=0x7f0c0144 android:switcher:2131493188:1}
+        mFragmentId=#7f0c0144 mContainerId=#7f0c0144 mTag=android:switcher:2131493188:1
+        mState=2 mIndex=1 mWho=android:fragment:1 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{535abc24 in HostCallbacks{535af298}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+        mSavedViewState=android.util.SparseArray@5395e148
+        mContainer=android.support.v4.view.ViewPager@535d8368
+        mView=android.widget.LinearLayout@53921b48
+        mInnerView=android.widget.LinearLayout@53921b48
+        Child FragmentManager{539219b8 in MobileLoginFragment{535d43b4}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+            mContainer=android.support.v4.app.Fragment$1@539219f8
+            mParent=MobileLoginFragment{535d43b4 #1 id=0x7f0c0144 android:switcher:2131493188:1}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: AccountsLoginFragment{535d3e54 #0 id=0x7f0c0144 android:switcher:2131493188:0}
+      #1: MobileLoginFragment{535d43b4 #1 id=0x7f0c0144 android:switcher:2131493188:1}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@535af298
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{535bf830 I.E..... ... 0,0-540,960}
+        android.widget.LinearLayout{535c9238 V.E..... ... 0,0-540,960}
+          android.view.ViewStub{535bf174 G.E..... ... 0,0-0,0 #1020314}
+          android.widget.FrameLayout{535c171c V.ED.... ... 0,38-540,960 #1020002 android:id/content}
+            android.widget.LinearLayout{535d6278 V.E..... ... 0,0-540,922}
+              android.widget.RelativeLayout{535bf478 V.E..... ... 0,29-540,95}
+                android.widget.ImageView{535cff38 G.ED..C. ... 0,0-0,0 #7f0c013f app:id/login_back}
+                android.widget.LinearLayout{535d3490 V.E..... ... 0,0-540,66}
+                  android.widget.LinearLayout{535d2d88 V.E..... ... 0,0-270,66}
+                    android.widget.TextView{535d6578 V.ED..C. ... 89,0-181,66 #7f0c0140 app:id/accounts_login_title}
+                    android.view.View{535a7460 G.ED.... ... 88,63-181,66 #7f0c0141 app:id/accounts_login_line}
+                  android.widget.LinearLayout{535d30e0 V.E..... ... 270,0-540,66}
+                    android.widget.TextView{535d2764 V.ED..C. ... 54,0-215,63 #7f0c0142 app:id/mobile_login_title}
+                    android.view.View{535bf670 V.ED.... ... 59,63-211,66 #7f0c0143 app:id/mobile_login_line}
+              android.support.v4.view.ViewPager{535d8368 VFED.... ... 0,95-540,922 #7f0c0144 app:id/login_pager}
+                android.widget.LinearLayout{535a0978 V.E..... ... 0,0-540,827}
+                  android.widget.RelativeLayout{535a0cf0 V.E..... ... 56,0-484,827}
+                    android.widget.LinearLayout{535a0f40 VFE..... ... 0,0-428,827}
+                      android.widget.RelativeLayout{535a1128 V.E..... ... 0,0-428,86}
+                        android.widget.LinearLayout{535a136c V.E..... ... 15,38-413,67}
+                          android.widget.ImageView{535a1544 V.ED.... ... 0,0-21,29}
+                          android.widget.EditText{535a1d98 VFED..CL ... 39,0-398,29 #7f0c006b app:id/login_accounts_mobile}
+                        android.view.View{535a2b94 V.ED.... ... 0,85-428,86}
+                      android.widget.RelativeLayout{535a2d0c V.E..... ... 0,86-428,161}
+                        android.widget.LinearLayout{535a2f5c V.E..... ... 15,27-413,56}
+                          android.widget.ImageView{535a3110 V.ED.... ... 0,0-22,29}
+                          android.widget.EditText{5391a9b4 VFED..CL ... 40,0-398,29 #7f0c006c app:id/login_accounts_psw}
+                        android.widget.CheckBox{5391b6a4 VFED..C. ... 396,37-428,55 #7f0c006d app:id/login_seepw}
+                        android.view.View{5391cc94 V.ED.... ... 0,74-428,75}
+                      android.widget.TextView{5391ce1c V.ED..C. ... 0,205-428,269 #7f0c006e app:id/login_accounts_butt}
+                      android.widget.TextView{5391d3a8 V.ED..C. ... 0,284-428,348 #7f0c006f app:id/login_accounts_toregist}
+                      android.widget.RelativeLayout{5391d930 V.E..... ... 0,348-428,403}
+                        android.widget.TextView{5391db80 V.ED..C. ... 338,0-428,55 #7f0c0070 app:id/login_accounts_forgot}
+                    android.widget.LinearLayout{5391ddec V.E...C. ... 0,600-428,738 #7f0c0071 app:id/login_accounts_byweixin}
+                      android.widget.LinearLayout{5391dfa0 V.E..... ... 0,0-428,29}
+                        android.view.View{5391e124 V.ED.... ... 0,14-113,15}
+                        android.widget.TextView{5391e25c V.ED.... ... 130,0-298,29}
+                        android.view.View{5391e470 V.ED.... ... 315,14-428,15}
+                      android.widget.ImageView{5391e5a8 V.ED.... ... 176,63-251,138}
+                android.widget.LinearLayout{53921b48 V.E..... ... 540,0-1080,827}
+                  android.widget.RelativeLayout{53921cf0 V.E..... ... 56,0-484,827}
+                    android.widget.LinearLayout{53921f40 VFE..... F.. 0,0-428,827}
+                      android.widget.RelativeLayout{539220f4 V.E..... ... 0,0-428,86}
+                        android.widget.LinearLayout{53922344 V.E..... ... 15,38-428,67}
+                          android.widget.ImageView{5392251c V.ED.... ... 0,0-21,29}
+                          android.widget.EditText{539226b0 VFED..CL ... 39,0-413,29 #7f0c0145 app:id/login_mobile}
+                        android.widget.TextView{53922e68 V..D..C. ... 307,30-428,75 #7f0c0146 app:id/login_mobile_getmessage}
+                        android.view.View{539233a8 V.ED.... ... 0,85-428,86}
+                      android.widget.RelativeLayout{53923510 V.E..... ... 0,86-428,161}
+                        android.widget.LinearLayout{53923760 V.E..... ... 15,27-413,56}
+                          android.widget.ImageView{53923914 V.ED.... ... 0,0-22,29}
+                          android.widget.EditText{53923a88 VFED..CL ... 40,0-398,29 #7f0c0147 app:id/login_mobile_code}
+                        android.view.View{539243c8 V.ED.... ... 0,74-428,75}
+                      android.widget.TextView{53924530 V.ED..C. ... 0,205-428,269 #7f0c0148 app:id/login_mobile_butt}
+                      android.widget.TextView{539247f4 V.ED..C. ... 0,284-428,348 #7f0c0149 app:id/toregist_mobile_butt}
+                      android.widget.RelativeLayout{53924af8 V.E..... ... 0,348-428,403}
+                        android.widget.TextView{53924d48 V.ED..C. ... 338,0-428,55 #7f0c014a app:id/login_mobile_forgot}
+                    android.widget.LinearLayout{53924f8c V.E...C. ... 0,634-428,738 #7f0c014b app:id/login_mobile_byweixin}
+                      android.widget.LinearLayout{53925140 V.E..... ... 0,0-428,29}
+                        android.view.View{539252c4 V.ED.... ... 0,14-113,15}
+                        android.widget.TextView{539253fc V.ED.... ... 130,0-298,29}
+                        android.view.View{53925610 V.ED.... ... 315,14-428,15}
+                      android.widget.ImageView{53925748 V.ED.... ... 176,29-251,104}

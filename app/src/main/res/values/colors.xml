@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 通用 -->
+    <color name="transparency">#00000000</color>//透明
+    <color name="transparent">#9000</color>//半透明
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="blue_bg">#FF18B4ED</color>
+    <color name="main">#bfbfbf</color>
+    <color name="grey">#c8c8c8</color>
+    <color name="red">#fd7a76</color>
+    <color name="yellow">#ffa95a</color>
+    <color name="green">#ff669900</color>
+    <color name="purple">#ffaa66cc</color>
+    <color name="touming">#00000000</color>
+    <color name="listview_d">#f0f0f0</color>
+    <!--浸入式状态栏颜色设置的：暂时不需要-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--splash页登录tv的bg-->
+    <color name="login_tv_bg">#FF4081</color>
+    <!--splash页注册tv的bg-->
+    <color name="regist_tv_bg">#FF4081</color>\
+    <!--splash页登录字体颜色-->
+    <color name="login_tv_text">#ffffff</color>
+    <!--splash页注册字体颜色-->
+    <color name="regist_tv_text">#ffffff</color>
+    <!--main页标题背景颜色-->
+    <color name="main_title_bg">#65C4C9</color>
+    <!--main页标题字体颜色-->
+    <color name="main_title_tv">#ffffff</color>
+    <!--main页底部分栏背景颜色-->
+    <color name="main_bottom_bg">#f6f6f6</color>
+    <!--main页底部颜色-->
+    <!--随机色块-->
+    <color name="imback_1">#b0e0df</color>
+    <color name="imback_2">#ffc6c6</color>
+    <color name="imback_3">#c8b0e0</color>
+    <color name="imback_4">#b0e0df</color>
+
+    <!--home-->
+    <color name="back">#f3f3f3</color>//背景色
+    <color name="title_color">#333333</color>//标题背景色
+    <color name="main_bottom_grayline">#e8e8e8</color>
+    <!--IM-->
+    <color name="im_head_gray">#999999</color>
+    <color name="im_head_black">#222222</color>
+    <color name="divider_gray">#efefef</color>
+    <!--gift-->
+    <color name="griditem_back_side">#ececec</color>
+    <!--wishDetails-->
+    <color name="gray_text">#444444</color>
+    <color name="gray_good">#b2b2b2</color>
+    <color name="gray_zongchou">#d2d2d2</color>
+    <!--giftdetails-->
+    <color name="gray_content">#666666</color>
+    <!--wishHome-->
+    <color name="wish_number">#d3d3d3</color>
+    <!--发布许愿gridview item 灰色-->
+    <color name="item_grayback">#f5f5f5</color>
+    <!--登录-->
+    <color name="divider_gray_line">#dddddd</color>
+    <!--发送验证码  变化前-->
+    <color name="send_msg_gray">#bdb5b5</color>
+   <!--好友，通讯录灰线-->
+    <color name="phone_divider_line">#ebebeb</color>
+    <!--性别，昵称，字体色-->
+    <color name="sex_text">#292929</color>
+    <!--昵称输入框颜色-->
+    <color name="brown">#cb9f82</color>
+    <color name="crop_line_color">#808080</color>//切图的灰色
+    <color name="search_price_back_color">#dbdbdb</color>//随意选--价格背景框的颜色
+
+</resources>
